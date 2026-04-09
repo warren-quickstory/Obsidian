@@ -649,3 +649,33 @@ To github.com:warren-quickstory/Obsidian.git
    31569b7..31adc74  main -> main
 [Thu Apr  9 07:12:12 PM CST 2026] Pushed: sync.log
 [Thu Apr  9 07:12:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 69ed14f] sync: 2026-04-09 19:12:14 - sync.log
+ 25 files changed, 1733 insertions(+)
+ create mode 100644 trading-master/agent/SOUL.md
+ create mode 100644 trading-master/agent/config.yaml
+ create mode 100644 trading-master/agent/memory.json
+ create mode 100644 trading-master/agents/trading-master/00_system_template/SKILL.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/SKILL.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/system_v1_report.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py
+ create mode 100644 trading-master/agents/trading-master/SOUL.md
+ create mode 100644 trading-master/agents/trading-master/config/global_params.json
+ create mode 100644 trading-master/release/.gitkeep
+ create mode 100644 trading-master/release/strategies/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/README.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/backtest/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/changelog.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/params.json
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/signals/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/system_technical.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/tdx_formula.json
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/trading_manual.md
+ create mode 100644 trading-master/release/strategies/_template/README.md
+ create mode 100644 trading-master/release/strategies/_template/changelog.md
+ create mode 100644 trading-master/release/strategies/_template/params.json
+ create mode 100644 trading-master/release/strategies/_template/system_technical.md
+ create mode 100644 trading-master/release/strategies/_template/trading_manual.md
+To github.com:warren-quickstory/Obsidian.git
+   31adc74..69ed14f  main -> main
+[Thu Apr  9 07:12:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
