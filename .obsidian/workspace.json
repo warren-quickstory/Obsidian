@@ -11,10 +11,14 @@
             "id": "4e2f025767821f5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "交易大师/模板/01-交易计划模版.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "01-交易计划模版"
             }
           }
         ]
