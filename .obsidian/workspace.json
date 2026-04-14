@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/模板/01-交易计划模版.md",
+                "file": "交易大师/每日复盘/股票/2026-04-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-交易计划模版"
+              "title": "2026-04-14"
             }
           }
         ]
@@ -186,6 +186,14 @@
   },
   "active": "4e2f025767821f5c",
   "lastOpenFiles": [
+    "Pasted image 20260414154031.png",
+    "Pasted image 20260414153915.png",
+    "Pasted image 20260414153008.png",
+    "交易大师/模板/01-交易计划模版.md",
+    "交易大师/每日复盘/股票/2026-04-14.md",
+    "交易大师/每日复盘/期货",
+    "交易大师/每日复盘/股票",
+    "交易大师/每日复盘",
     "交易大师/交易大师.md",
     "心得.md",
     "交易大师/知识/震荡.md",
@@ -196,7 +204,6 @@
     "交易大师/知识/2026-04-13-待定-暴跌行情辅助识别探索.md",
     "交易大师/交易系统/交易日志模板.md",
     "交易大师/交易系统/期货交易系统框架.md",
-    "交易大师/模板/01-交易计划模版.md",
     "README.md",
     "text.md",
     "watch.sh",
@@ -214,14 +221,9 @@
     "trading-master/release/strategies/T1_uptrend_pullback/changelog.md",
     "trading-master/release/strategies/T1_uptrend_pullback/backtest",
     "trading-master/release/strategies/T1_uptrend_pullback/README.md",
-    "trading-master/agents/trading-master/config/global_params.json",
-    "trading-master/agents/trading-master/01_system_backtest_evaluator/tools",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/system_v1_report.md",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/SKILL.md",
     "trading-master/agents/trading-master/00_system_template/SKILL.md",
-    "trading-master/release/strategies/_template",
-    "trading-master/agents/trading-master/SOUL.md",
-    "trading-master/agent/SOUL.md",
     "未命名.canvas"
   ]
 }
