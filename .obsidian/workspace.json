@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9de80104e1d2f50f",
+        "id": "cbd2502f080bd070",
         "type": "tabs",
         "children": [
           {
-            "id": "5fadb9f8f9e5b3cf",
+            "id": "d078e8cc313ff4a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/模板/01-交易计划模版.md",
+                "file": "交易大师/交易大师.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-交易计划模版"
+              "title": "交易大师"
             }
           }
         ]
@@ -184,11 +184,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fadb9f8f9e5b3cf",
+  "active": "d078e8cc313ff4a3",
   "lastOpenFiles": [
+    "心得.md",
+    "交易大师/交易大师.md",
+    "交易大师/知识/震荡.md",
+    "交易大师/知识/上涨.md",
+    "交易大师/知识/2026-04-13讨论-趋势中走势讨论.md",
+    "交易大师/知识/理解心的.md",
+    "交易大师/知识/2026-04-13-战术-急跌与反抽的量化判定.md",
+    "交易大师/知识/2026-04-13-待定-暴跌行情辅助识别探索.md",
+    "交易大师/交易系统/交易日志模板.md",
+    "交易大师/交易系统/期货交易系统框架.md",
+    "交易大师/模板/01-交易计划模版.md",
     "README.md",
     "text.md",
-    "交易大师/模板/01-交易计划模版.md",
     "watch.sh",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py",
     "trading-master/release/strategies/_template/trading_manual.md",
@@ -212,15 +222,6 @@
     "trading-master/release/strategies/_template",
     "trading-master/agents/trading-master/SOUL.md",
     "trading-master/agent/SOUL.md",
-    "交易大师/模板/02-复盘模版.md",
-    "交易大师/模板/03-交易成本测算模版.md",
-    "交易大师/模板/05-交易总成本计算公式与分类模型.md",
-    "交易大师/模板/04-华泰期货全品种手续费明细.md",
-    "交易大师/知识/2026-04-13讨论-趋势中走势讨论.md",
-    "交易大师/知识/2026-04-13-待定-暴跌行情辅助识别探索.md",
-    "交易大师/知识/2026-04-13-战术-急跌与反抽的量化判定.md",
-    "交易大师/知识/理解心的.md",
-    "交易大师/知识/上涨.md",
     "未命名.canvas"
   ]
 }
