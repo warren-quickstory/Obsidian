@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "交易大师/模板/01-交易计划模版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-交易计划模版"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "5fadb9f8f9e5b3cf",
   "lastOpenFiles": [
+    "README.md",
+    "text.md",
     "交易大师/模板/01-交易计划模版.md",
     "watch.sh",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py",
@@ -210,8 +212,6 @@
     "trading-master/release/strategies/_template",
     "trading-master/agents/trading-master/SOUL.md",
     "trading-master/agent/SOUL.md",
-    "text.md",
-    "README.md",
     "交易大师/模板/02-复盘模版.md",
     "交易大师/模板/03-交易成本测算模版.md",
     "交易大师/模板/05-交易总成本计算公式与分类模型.md",
