@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/模板/05-交易总成本计算公式与分类模型.md",
+                "file": "交易大师/模板/04-华泰期货全品种手续费明细.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-交易总成本计算公式与分类模型"
+              "title": "04-华泰期货全品种手续费明细"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "4e2f025767821f5c",
   "lastOpenFiles": [
-    "交易大师/模板/04-华泰期货全品种手续费明细.md",
     "交易大师/模板/05-交易总成本计算公式与分类模型.md",
+    "交易大师/模板/04-华泰期货全品种手续费明细.md",
+    "交易大师/模板/03-交易成本测算模版.md",
     "交易大师/交易系统/股票/股票交易系统1.0.md",
     "交易大师/交易系统/股票/股票交易系统使用指南.md",
     "交易大师/交易系统/股票/股票交易计划模板.md",
@@ -222,7 +223,6 @@
     "trading-master/release/strategies/_template/params.json",
     "trading-master/release/strategies/_template/changelog.md",
     "trading-master/release/strategies/_template/README.md",
-    "trading-master/release/strategies/T1_uptrend_pullback/trading_manual.md",
     "trading-master/release/strategies/T1_uptrend_pullback/tdx_formula.json",
     "trading-master/release/strategies/T1_uptrend_pullback/signals",
     "trading-master/release/strategies/T1_uptrend_pullback/params.json",
