@@ -1,0 +1,145 @@
+{
+  "strategy_name": "WARREN-T1 上涨趋势波段接力系统",
+  "version": "1.1",
+  "created_date": "2026-04-09",
+  "last_modified": "2026-04-09",
+  "author": "WARREN",
+  
+  "core_risk_parameters": {
+    "base_risk_per_trade": 2500.0,
+    "risk_currency": "CNY",
+    "scaling_risk": 1250.0,
+    "max_position_size_percent": 15.0,
+    "max_daily_drawdown": 5000.0,
+    "max_monthly_drawdown": 20000.0
+  },
+  
+  "market_regime_filters": {
+    "trend_filter": {
+      "ma_period": 20,
+      "trend_up_threshold": 5
+    },
+    "swing_low_filter": {
+      "kline_pattern": "5K分形底",
+      "left_bars": 2,
+      "right_bars": 2,
+      "confirmation_rule": "中心K线最低价 < 左右各2根K线最低价"
+    },
+    "fibonacci_retracement": {
+      "fib_level": 0.618,
+      "calculation_period": 20,
+      "tolerance_pct": 0.5,
+      "allow_intraday_breach": true
+    },
+    "volume_filter": {
+      "volume_ma_period": 20,
+      "down_day_multiplier": 1.5,
+      "lookback_period": 5,
+      "allow_zero_breaches": true
+    }
+  },
+  
+  "entry_parameters": {
+    "stop_loss": {
+      "rule": "波段低点下方0.5%",
+      "formula": "波段低点价格 × 0.995"
+    },
+    "position_sizing": {
+      "formula": "买入股数 = 基础风险 ÷ (买入价 - 止损价)",
+      "rounding": "向下取整",
+      "min_shares": 100
+    },
+    "trigger_rules": {
+      "轨道A_激进突袭": {
+        "condition": "周线前高距离 < 5%",
+        "action": "盘中突破日线前高 + 量比 > 1.5",
+        "timing": "立即执行",
+        "require_volume_forecast": true
+      },
+      "轨道B_稳健确认": {
+        "condition": "周线不支持（距离前高 >= 5%）",
+        "action": "价格企稳前高之上 + 量能达标",
+        "timing": "14:30后尾盘",
+        "require_volume_forecast": false
+      }
+    },
+    "breakout_definition": {
+      "reference_high": "日线级别前高",
+      "confirmation_timeframe": "日线",
+      "breakout_margin": 0.01
+    }
+  },
+  
+  "scaling_parameters": {
+    "prerequisites": {
+      "min_floating_profit": 2500.0,
+      "profit_lock_percent": 100.0
+    },
+    "engine1_逼空不回踩": {
+      "condition": "价格沿5日线直接向上，突破新的局部日线高点",
+      "action1": "底仓止损上移至最近放量大阳线低点",
+      "action2": "使用1250元风险预算独立加仓",
+      "new_stop_rule": "最近放量大阳线低点下方0.5%"
+    },
+    "engine2_标准缩量回踩": {
+      "condition": "价格回踩突破颈线（±1%），呈现缩量，次日收出实体阳线",
+      "action1": "底仓止损上移至回踩确认阳线最低点下方",
+      "action2": "使用1250元风险预算独立加仓",
+      "new_stop_rule": "回踩确认阳线最低点下方0.5%",
+      "volume_requirement": "缩量（回调日成交量 < 20日均量）"
+    },
+    "scaling_rules": {
+      "pyramid_decrease": true,
+      "max_scaling_times": 2,
+      "total_position_limit": 3,
+      "independent_stops": true
+    }
+  },
+  
+  "exit_parameters": {
+    "active_profit_taking": {
+      "target_risk_multiple": 2.0,
+      "action": "平掉一半仓位",
+      "remainder_handling": "剩余仓位转入移动止损托管"
+    },
+    "trailing_stop": {
+      "rule": "移动止损",
+      "trigger_condition": "主动止盈后",
+      "reference_point": "当前K线低点",
+      "offset_pct": 1.0,
+      "update_frequency": "每根新K线"
+    },
+    "full_exit_conditions": [
+      "移动止损被触发",
+      "出现反向环境过滤器信号",
+      "达到月/年度最大回撤限制"
+    ]
+  },
+  
+  "state_machine": {
+    "reset_condition": "每次完全清仓后",
+    "reinitialization": "必须重新进行环境过滤",
+    "independent_cycles": true
+  },
+  
+  "monitoring_parameters": {
+    "daily_scan_time": "收盘后",
+    "screening_method": "通达信公式",
+    "watchlist_management": {
+      "max_candidates": 20,
+      "holding_period": 5
+    },
+    "performance_tracking": {
+      "track_r_multiple": true,
+      "win_rate_target": 0.4,
+      "avg_win_avg_loss_ratio_target": 3.0
+    }
+  },
+  
+  "notes": [
+    "此参数文件为WARREN-T1 v1.1的完整配置",
+    "所有参数均基于A股市场统计特征和主力操盘习惯制定",
+    "修改任何参数前必须进行沙盘推演和压力测试",
+    "系统采用绝对风险额度管理，不与账户总资金挂钩"
+  ]
+}

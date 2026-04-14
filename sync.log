@@ -1,0 +1,945 @@
+Already up to date.
+[main 0742224] sync: 2026-04-09 18:00:05
+ 2 files changed, 9 insertions(+)
+ create mode 100644 sync.log
+ create mode 100755 sync.sh
+To github.com:warren-quickstory/Obsidian.git
+   e68a7d8..0742224  main -> main
+[main b271501] sync: 2026-04-09 18:30:01
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0742224..b271501  main -> main
+[main 19bc659] sync: 2026-04-09 19:00:01
+ 2 files changed, 5 insertions(+)
+ create mode 100644 text.md
+To github.com:warren-quickstory/Obsidian.git
+   b271501..19bc659  main -> main
+[Thu Apr  9 07:04:08 PM CST 2026] Obsidian vault watcher started
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+[Thu Apr  9 07:04:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b0ff1eb] sync: 2026-04-09 19:04:10 - sync.log
+ 2 files changed, 29 insertions(+)
+ create mode 100755 watch.sh
+To github.com:warren-quickstory/Obsidian.git
+   19bc659..b0ff1eb  main -> main
+[Thu Apr  9 07:04:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 332d79f] sync: 2026-04-09 19:04:14 - sync.log
+ 1 file changed, 7 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b0ff1eb..332d79f  main -> main
+[Thu Apr  9 07:04:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 804ff2e] sync: 2026-04-09 19:04:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   332d79f..804ff2e  main -> main
+[Thu Apr  9 07:04:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 62b96a4] sync: 2026-04-09 19:04:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   804ff2e..62b96a4  main -> main
+[Thu Apr  9 07:04:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 76cc7a8] sync: 2026-04-09 19:04:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   62b96a4..76cc7a8  main -> main
+[Thu Apr  9 07:04:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 9780649] sync: 2026-04-09 19:04:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   76cc7a8..9780649  main -> main
+[Thu Apr  9 07:04:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 293dd1b] sync: 2026-04-09 19:04:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   9780649..293dd1b  main -> main
+[Thu Apr  9 07:04:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0ca5a61] sync: 2026-04-09 19:04:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   293dd1b..0ca5a61  main -> main
+[Thu Apr  9 07:04:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 495d25c] sync: 2026-04-09 19:04:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0ca5a61..495d25c  main -> main
+[Thu Apr  9 07:04:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main ea47b11] sync: 2026-04-09 19:04:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   495d25c..ea47b11  main -> main
+[Thu Apr  9 07:04:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 3dd673e] sync: 2026-04-09 19:04:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   ea47b11..3dd673e  main -> main
+[Thu Apr  9 07:04:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:04:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 16060df] sync: 2026-04-09 19:05:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   3dd673e..16060df  main -> main
+[Thu Apr  9 07:05:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 80a5ff2] sync: 2026-04-09 19:05:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   16060df..80a5ff2  main -> main
+[Thu Apr  9 07:05:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 52459a3] sync: 2026-04-09 19:05:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   80a5ff2..52459a3  main -> main
+[Thu Apr  9 07:05:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e8448e7] sync: 2026-04-09 19:05:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   52459a3..e8448e7  main -> main
+[Thu Apr  9 07:05:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 99980b2] sync: 2026-04-09 19:05:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e8448e7..99980b2  main -> main
+[Thu Apr  9 07:05:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1a24cd6] sync: 2026-04-09 19:05:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   99980b2..1a24cd6  main -> main
+[Thu Apr  9 07:05:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0c4fd77] sync: 2026-04-09 19:05:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1a24cd6..0c4fd77  main -> main
+[Thu Apr  9 07:05:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 794bcb7] sync: 2026-04-09 19:05:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0c4fd77..794bcb7  main -> main
+[Thu Apr  9 07:05:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main c0f64ca] sync: 2026-04-09 19:05:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   794bcb7..c0f64ca  main -> main
+[Thu Apr  9 07:05:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d52bbb4] sync: 2026-04-09 19:05:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   c0f64ca..d52bbb4  main -> main
+[Thu Apr  9 07:05:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 9eab7cc] sync: 2026-04-09 19:05:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d52bbb4..9eab7cc  main -> main
+[Thu Apr  9 07:05:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 993485b] sync: 2026-04-09 19:05:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   9eab7cc..993485b  main -> main
+[Thu Apr  9 07:05:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 7fffbbb] sync: 2026-04-09 19:05:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   993485b..7fffbbb  main -> main
+[Thu Apr  9 07:05:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:05:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b825134] sync: 2026-04-09 19:06:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   7fffbbb..b825134  main -> main
+[Thu Apr  9 07:06:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 28ae2c1] sync: 2026-04-09 19:06:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b825134..28ae2c1  main -> main
+[Thu Apr  9 07:06:07 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:07 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main bbf5066] sync: 2026-04-09 19:06:09 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   28ae2c1..bbf5066  main -> main
+[Thu Apr  9 07:06:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 5f195d1] sync: 2026-04-09 19:06:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   bbf5066..5f195d1  main -> main
+[Thu Apr  9 07:06:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 238f85b] sync: 2026-04-09 19:06:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   5f195d1..238f85b  main -> main
+[Thu Apr  9 07:06:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 23b1d80] sync: 2026-04-09 19:06:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   238f85b..23b1d80  main -> main
+[Thu Apr  9 07:06:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b9ec962] sync: 2026-04-09 19:06:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   23b1d80..b9ec962  main -> main
+[Thu Apr  9 07:06:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f006f67] sync: 2026-04-09 19:06:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b9ec962..f006f67  main -> main
+[Thu Apr  9 07:06:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f035b51] sync: 2026-04-09 19:06:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f006f67..f035b51  main -> main
+[Thu Apr  9 07:06:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2d9a68d] sync: 2026-04-09 19:06:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f035b51..2d9a68d  main -> main
+[Thu Apr  9 07:06:45 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:45 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 3f2a168] sync: 2026-04-09 19:06:47 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2d9a68d..3f2a168  main -> main
+[Thu Apr  9 07:06:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d06b21d] sync: 2026-04-09 19:06:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   3f2a168..d06b21d  main -> main
+[Thu Apr  9 07:06:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 8784d2d] sync: 2026-04-09 19:06:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d06b21d..8784d2d  main -> main
+[Thu Apr  9 07:06:59 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:06:59 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 93b927b] sync: 2026-04-09 19:07:01 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   8784d2d..93b927b  main -> main
+[Thu Apr  9 07:07:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 52d4039] sync: 2026-04-09 19:07:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   93b927b..52d4039  main -> main
+[Thu Apr  9 07:07:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 93c1eac] sync: 2026-04-09 19:07:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   52d4039..93c1eac  main -> main
+[Thu Apr  9 07:07:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 31d7f44] sync: 2026-04-09 19:07:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   93c1eac..31d7f44  main -> main
+[Thu Apr  9 07:07:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main a9df608] sync: 2026-04-09 19:07:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   31d7f44..a9df608  main -> main
+[Thu Apr  9 07:07:22 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:22 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 9b79b09] sync: 2026-04-09 19:07:24 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   a9df608..9b79b09  main -> main
+[Thu Apr  9 07:07:27 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:27 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 598801b] sync: 2026-04-09 19:07:29 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   9b79b09..598801b  main -> main
+[Thu Apr  9 07:07:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0a00de5] sync: 2026-04-09 19:07:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   598801b..0a00de5  main -> main
+[Thu Apr  9 07:07:36 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:36 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main be0a565] sync: 2026-04-09 19:07:38 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0a00de5..be0a565  main -> main
+[Thu Apr  9 07:07:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 284ecd1] sync: 2026-04-09 19:07:43 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   be0a565..284ecd1  main -> main
+[Thu Apr  9 07:07:45 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:45 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 7fd9b50] sync: 2026-04-09 19:07:47 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   284ecd1..7fd9b50  main -> main
+[Thu Apr  9 07:07:50 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:50 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 886436b] sync: 2026-04-09 19:07:52 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   7fd9b50..886436b  main -> main
+[Thu Apr  9 07:07:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main bd42116] sync: 2026-04-09 19:07:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   886436b..bd42116  main -> main
+[Thu Apr  9 07:07:59 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:07:59 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 33b203d] sync: 2026-04-09 19:08:01 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   bd42116..33b203d  main -> main
+[Thu Apr  9 07:08:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f005e12] sync: 2026-04-09 19:08:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   33b203d..f005e12  main -> main
+[Thu Apr  9 07:08:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d606b4f] sync: 2026-04-09 19:08:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f005e12..d606b4f  main -> main
+[Thu Apr  9 07:08:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 42053c0] sync: 2026-04-09 19:08:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d606b4f..42053c0  main -> main
+[Thu Apr  9 07:08:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4017832] sync: 2026-04-09 19:08:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   42053c0..4017832  main -> main
+[Thu Apr  9 07:08:22 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:22 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2bdf712] sync: 2026-04-09 19:08:24 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4017832..2bdf712  main -> main
+[Thu Apr  9 07:08:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4d5a7c0] sync: 2026-04-09 19:08:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2bdf712..4d5a7c0  main -> main
+[Thu Apr  9 07:08:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 545b697] sync: 2026-04-09 19:08:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4d5a7c0..545b697  main -> main
+[Thu Apr  9 07:08:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4c3a01f] sync: 2026-04-09 19:08:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   545b697..4c3a01f  main -> main
+[Thu Apr  9 07:08:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 985c3ee] sync: 2026-04-09 19:08:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4c3a01f..985c3ee  main -> main
+[Thu Apr  9 07:08:45 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:45 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4006191] sync: 2026-04-09 19:08:47 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   985c3ee..4006191  main -> main
+[Thu Apr  9 07:08:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main da7ccd6] sync: 2026-04-09 19:08:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4006191..da7ccd6  main -> main
+[Thu Apr  9 07:08:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 479ad9d] sync: 2026-04-09 19:08:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   da7ccd6..479ad9d  main -> main
+[Thu Apr  9 07:08:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:08:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4b6e82c] sync: 2026-04-09 19:09:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   479ad9d..4b6e82c  main -> main
+[Thu Apr  9 07:09:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 6ac5a43] sync: 2026-04-09 19:09:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4b6e82c..6ac5a43  main -> main
+[Thu Apr  9 07:09:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main a719040] sync: 2026-04-09 19:09:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   6ac5a43..a719040  main -> main
+[Thu Apr  9 07:09:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4cffcc9] sync: 2026-04-09 19:09:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   a719040..4cffcc9  main -> main
+[Thu Apr  9 07:09:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main df99226] sync: 2026-04-09 19:09:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4cffcc9..df99226  main -> main
+[Thu Apr  9 07:09:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b33a3f9] sync: 2026-04-09 19:09:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   df99226..b33a3f9  main -> main
+[Thu Apr  9 07:09:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 39ddf75] sync: 2026-04-09 19:09:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b33a3f9..39ddf75  main -> main
+[Thu Apr  9 07:09:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d97aac9] sync: 2026-04-09 19:09:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   39ddf75..d97aac9  main -> main
+[Thu Apr  9 07:09:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0c1e9e7] sync: 2026-04-09 19:09:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d97aac9..0c1e9e7  main -> main
+[Thu Apr  9 07:09:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main eb78922] sync: 2026-04-09 19:09:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0c1e9e7..eb78922  main -> main
+[Thu Apr  9 07:09:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 8cc11fd] sync: 2026-04-09 19:09:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   eb78922..8cc11fd  main -> main
+[Thu Apr  9 07:09:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1705f96] sync: 2026-04-09 19:09:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   8cc11fd..1705f96  main -> main
+[Thu Apr  9 07:09:53 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:53 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main ab01a77] sync: 2026-04-09 19:09:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1705f96..ab01a77  main -> main
+[Thu Apr  9 07:09:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:09:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main dfa9250] sync: 2026-04-09 19:10:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   ab01a77..dfa9250  main -> main
+[Thu Apr  9 07:10:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 20a31ae] sync: 2026-04-09 19:10:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   dfa9250..20a31ae  main -> main
+[Thu Apr  9 07:10:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main c57b3f8] sync: 2026-04-09 19:10:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   20a31ae..c57b3f8  main -> main
+[Thu Apr  9 07:10:13 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:13 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 5eba52f] sync: 2026-04-09 19:10:15 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   c57b3f8..5eba52f  main -> main
+[Thu Apr  9 07:10:18 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:18 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1956932] sync: 2026-04-09 19:10:20 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   5eba52f..1956932  main -> main
+[Thu Apr  9 07:10:22 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:22 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b00af90] sync: 2026-04-09 19:10:24 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1956932..b00af90  main -> main
+[Thu Apr  9 07:10:27 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:27 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main da93e28] sync: 2026-04-09 19:10:29 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b00af90..da93e28  main -> main
+[Thu Apr  9 07:10:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e1b2163] sync: 2026-04-09 19:10:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   da93e28..e1b2163  main -> main
+[Thu Apr  9 07:10:36 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:36 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 7f805b8] sync: 2026-04-09 19:10:38 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e1b2163..7f805b8  main -> main
+[Thu Apr  9 07:10:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main a780321] sync: 2026-04-09 19:10:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   7f805b8..a780321  main -> main
+[Thu Apr  9 07:10:45 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:45 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0a30f78] sync: 2026-04-09 19:10:47 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   a780321..0a30f78  main -> main
+[Thu Apr  9 07:10:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main a201758] sync: 2026-04-09 19:10:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0a30f78..a201758  main -> main
+[Thu Apr  9 07:10:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e554d86] sync: 2026-04-09 19:10:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   a201758..e554d86  main -> main
+[Thu Apr  9 07:10:59 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:10:59 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e91aedc] sync: 2026-04-09 19:11:01 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e554d86..e91aedc  main -> main
+[Thu Apr  9 07:11:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0d2060f] sync: 2026-04-09 19:11:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e91aedc..0d2060f  main -> main
+[Thu Apr  9 07:11:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1bb0a03] sync: 2026-04-09 19:11:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0d2060f..1bb0a03  main -> main
+[Thu Apr  9 07:11:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main be6fb85] sync: 2026-04-09 19:11:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1bb0a03..be6fb85  main -> main
+[Thu Apr  9 07:11:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d4af1ab] sync: 2026-04-09 19:11:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   be6fb85..d4af1ab  main -> main
+[Thu Apr  9 07:11:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1fa5f36] sync: 2026-04-09 19:11:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d4af1ab..1fa5f36  main -> main
+[Thu Apr  9 07:11:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 72cf602] sync: 2026-04-09 19:11:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1fa5f36..72cf602  main -> main
+[Thu Apr  9 07:11:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1837ead] sync: 2026-04-09 19:11:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   72cf602..1837ead  main -> main
+[Thu Apr  9 07:11:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 88d022f] sync: 2026-04-09 19:11:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1837ead..88d022f  main -> main
+[Thu Apr  9 07:11:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f2b3490] sync: 2026-04-09 19:11:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   88d022f..f2b3490  main -> main
+[Thu Apr  9 07:11:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 6186f19] sync: 2026-04-09 19:11:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f2b3490..6186f19  main -> main
+[Thu Apr  9 07:11:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 87b9867] sync: 2026-04-09 19:11:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   6186f19..87b9867  main -> main
+[Thu Apr  9 07:11:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2c24937] sync: 2026-04-09 19:11:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   87b9867..2c24937  main -> main
+[Thu Apr  9 07:11:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:11:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b82e5cb] sync: 2026-04-09 19:12:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2c24937..b82e5cb  main -> main
+[Thu Apr  9 07:12:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 31569b7] sync: 2026-04-09 19:12:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b82e5cb..31569b7  main -> main
+[Thu Apr  9 07:12:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 31adc74] sync: 2026-04-09 19:12:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   31569b7..31adc74  main -> main
+[Thu Apr  9 07:12:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 69ed14f] sync: 2026-04-09 19:12:14 - sync.log
+ 25 files changed, 1733 insertions(+)
+ create mode 100644 trading-master/agent/SOUL.md
+ create mode 100644 trading-master/agent/config.yaml
+ create mode 100644 trading-master/agent/memory.json
+ create mode 100644 trading-master/agents/trading-master/00_system_template/SKILL.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/SKILL.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/system_v1_report.md
+ create mode 100644 trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py
+ create mode 100644 trading-master/agents/trading-master/SOUL.md
+ create mode 100644 trading-master/agents/trading-master/config/global_params.json
+ create mode 100644 trading-master/release/.gitkeep
+ create mode 100644 trading-master/release/strategies/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/README.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/backtest/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/changelog.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/params.json
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/signals/.gitkeep
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/system_technical.md
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/tdx_formula.json
+ create mode 100644 trading-master/release/strategies/T1_uptrend_pullback/trading_manual.md
+ create mode 100644 trading-master/release/strategies/_template/README.md
+ create mode 100644 trading-master/release/strategies/_template/changelog.md
+ create mode 100644 trading-master/release/strategies/_template/params.json
+ create mode 100644 trading-master/release/strategies/_template/system_technical.md
+ create mode 100644 trading-master/release/strategies/_template/trading_manual.md
+To github.com:warren-quickstory/Obsidian.git
+   31adc74..69ed14f  main -> main
+[Thu Apr  9 07:12:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e276518] sync: 2026-04-09 19:12:19 - sync.log
+ 1 file changed, 30 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   69ed14f..e276518  main -> main
+[Thu Apr  9 07:12:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 6c71a17] sync: 2026-04-09 19:12:24 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e276518..6c71a17  main -> main
+[Thu Apr  9 07:12:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 8bd1377] sync: 2026-04-09 19:12:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   6c71a17..8bd1377  main -> main
+[Thu Apr  9 07:12:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d091d37] sync: 2026-04-09 19:12:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   8bd1377..d091d37  main -> main
+[Thu Apr  9 07:12:36 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:36 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 4eeeb32] sync: 2026-04-09 19:12:38 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d091d37..4eeeb32  main -> main
+[Thu Apr  9 07:12:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 754bf62] sync: 2026-04-09 19:12:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   4eeeb32..754bf62  main -> main
+[Thu Apr  9 07:12:45 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:45 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 473a01f] sync: 2026-04-09 19:12:47 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   754bf62..473a01f  main -> main
+[Thu Apr  9 07:12:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 70a7ea1] sync: 2026-04-09 19:12:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   473a01f..70a7ea1  main -> main
+[Thu Apr  9 07:12:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f7bb1bd] sync: 2026-04-09 19:12:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   70a7ea1..f7bb1bd  main -> main
+[Thu Apr  9 07:12:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:12:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main f7e550a] sync: 2026-04-09 19:13:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f7bb1bd..f7e550a  main -> main
+[Thu Apr  9 07:13:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 410bfa5] sync: 2026-04-09 19:13:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   f7e550a..410bfa5  main -> main
+[Thu Apr  9 07:13:08 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:08 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d186049] sync: 2026-04-09 19:13:10 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   410bfa5..d186049  main -> main
+[Thu Apr  9 07:13:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2bcfb1d] sync: 2026-04-09 19:13:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d186049..2bcfb1d  main -> main
+[Thu Apr  9 07:13:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b7da979] sync: 2026-04-09 19:13:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2bcfb1d..b7da979  main -> main
+[Thu Apr  9 07:13:22 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:22 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main c208eac] sync: 2026-04-09 19:13:24 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b7da979..c208eac  main -> main
+[Thu Apr  9 07:13:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 81c8e5a] sync: 2026-04-09 19:13:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   c208eac..81c8e5a  main -> main
+[Thu Apr  9 07:13:31 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:31 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 547c622] sync: 2026-04-09 19:13:33 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   81c8e5a..547c622  main -> main
+[Thu Apr  9 07:13:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 54e5703] sync: 2026-04-09 19:13:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   547c622..54e5703  main -> main
+[Thu Apr  9 07:13:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 468c114] sync: 2026-04-09 19:13:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   54e5703..468c114  main -> main
+[Thu Apr  9 07:13:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b7f6020] sync: 2026-04-09 19:13:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   468c114..b7f6020  main -> main
+[Thu Apr  9 07:13:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2654aaa] sync: 2026-04-09 19:13:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   b7f6020..2654aaa  main -> main
+[Thu Apr  9 07:13:54 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:54 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main bac2f44] sync: 2026-04-09 19:13:56 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2654aaa..bac2f44  main -> main
+[Thu Apr  9 07:13:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:13:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d463559] sync: 2026-04-09 19:14:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   bac2f44..d463559  main -> main
+[Thu Apr  9 07:14:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main d358b66] sync: 2026-04-09 19:14:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d463559..d358b66  main -> main
+[Thu Apr  9 07:14:07 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:07 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main dbadede] sync: 2026-04-09 19:14:09 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   d358b66..dbadede  main -> main
+[Thu Apr  9 07:14:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 68461ed] sync: 2026-04-09 19:14:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   dbadede..68461ed  main -> main
+[Thu Apr  9 07:14:16 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:16 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main fe095cc] sync: 2026-04-09 19:14:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   68461ed..fe095cc  main -> main
+[Thu Apr  9 07:14:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 3c06648] sync: 2026-04-09 19:14:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   fe095cc..3c06648  main -> main
+[Thu Apr  9 07:14:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2d4b7a0] sync: 2026-04-09 19:14:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   3c06648..2d4b7a0  main -> main
+[Thu Apr  9 07:14:30 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:30 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 50ef6e8] sync: 2026-04-09 19:14:32 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2d4b7a0..50ef6e8  main -> main
+[Thu Apr  9 07:14:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main db1b599] sync: 2026-04-09 19:14:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   50ef6e8..db1b599  main -> main
+[Thu Apr  9 07:14:40 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:40 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 2a121e8] sync: 2026-04-09 19:14:42 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   db1b599..2a121e8  main -> main
+[Thu Apr  9 07:14:44 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:44 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0bc8394] sync: 2026-04-09 19:14:46 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   2a121e8..0bc8394  main -> main
+[Thu Apr  9 07:14:49 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:49 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 015228b] sync: 2026-04-09 19:14:51 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0bc8394..015228b  main -> main
+[Thu Apr  9 07:14:53 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:53 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0c73f56] sync: 2026-04-09 19:14:55 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   015228b..0c73f56  main -> main
+[Thu Apr  9 07:14:58 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:14:58 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main bb85adc] sync: 2026-04-09 19:15:00 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0c73f56..bb85adc  main -> main
+[Thu Apr  9 07:15:03 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:03 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main c09f20f] sync: 2026-04-09 19:15:05 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   bb85adc..c09f20f  main -> main
+[Thu Apr  9 07:15:07 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:07 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 0c3e1de] sync: 2026-04-09 19:15:09 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   c09f20f..0c3e1de  main -> main
+[Thu Apr  9 07:15:12 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:12 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main ef84044] sync: 2026-04-09 19:15:14 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   0c3e1de..ef84044  main -> main
+[Thu Apr  9 07:15:17 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:17 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 58a7599] sync: 2026-04-09 19:15:19 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   ef84044..58a7599  main -> main
+[Thu Apr  9 07:15:21 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:21 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main e787028] sync: 2026-04-09 19:15:23 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   58a7599..e787028  main -> main
+[Thu Apr  9 07:15:26 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:26 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 7f25ad0] sync: 2026-04-09 19:15:28 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   e787028..7f25ad0  main -> main
+[Thu Apr  9 07:15:30 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:30 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main 1ae4bea] sync: 2026-04-09 19:15:32 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   7f25ad0..1ae4bea  main -> main
+[Thu Apr  9 07:15:35 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:35 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log
+[main b835510] sync: 2026-04-09 19:15:37 - sync.log
+ 1 file changed, 6 insertions(+)
+To github.com:warren-quickstory/Obsidian.git
+   1ae4bea..b835510  main -> main
+[Thu Apr  9 07:15:39 PM CST 2026] Pushed: sync.log
+[Thu Apr  9 07:15:39 PM CST 2026] MODIFY: /home/admin/obsidian-vault/sync.log

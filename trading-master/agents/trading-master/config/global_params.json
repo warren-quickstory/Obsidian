@@ -1,0 +1,8 @@
+{
+  "agent_name": "WARREN's 交易导师",
+  "base_currency": "USD",
+  "default_risk_per_trade_pct": 1.5,
+  "max_drawdown_limit_pct": 10.0,
+  "version": "1.0.0",
+  "last_updated": "2026-04-09"
+}
