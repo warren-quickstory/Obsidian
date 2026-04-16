@@ -201,6 +201,7 @@
   },
   "active": "314c70a0b5e3f53a",
   "lastOpenFiles": [
+    "Pasted image 20260416175857.png",
     "交易大师/每日复盘/股票/2026-04-15 复盘.md",
     "交易大师/每日复盘/股票/2026-04-14 复盘.md",
     "交易大师/每日复盘/股票/2026-04-16 计划&复盘.md",
@@ -237,7 +238,6 @@
     "text.md",
     "watch.sh",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py",
-    "trading-master/release/strategies/_template/trading_manual.md",
     "trading-master/release/strategies/_template/params.json",
     "trading-master/release/strategies/T1_uptrend_pullback/tdx_formula.json",
     "trading-master/release/strategies/T1_uptrend_pullback/signals",
