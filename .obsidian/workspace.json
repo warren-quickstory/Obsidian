@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/每日复盘/股票/2026-04-14 复盘.md",
+                "file": "交易大师/每日复盘/股票/2026-04-16 计划&复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14 复盘"
+              "title": "2026-04-16 计划&复盘"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/每日复盘/股票/2026-04-16 计划&复盘.md",
+                "file": "交易大师/每日复盘/股票/2026-04-15 复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-16 计划&复盘"
+              "title": "2026-04-15 复盘"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "314c70a0b5e3f53a",
+  "active": "4e2f025767821f5c",
   "lastOpenFiles": [
-    "Pasted image 20260416175857.png",
-    "交易大师/每日复盘/股票/2026-04-15 复盘.md",
     "交易大师/每日复盘/股票/2026-04-14 复盘.md",
+    "交易大师/每日复盘/股票/2026-04-15 复盘.md",
     "交易大师/每日复盘/股票/2026-04-16 计划&复盘.md",
+    "Pasted image 20260416175857.png",
     "Pasted image 20260415200018.png",
     "交易大师/模板/01-交易计划模版.md",
     "交易大师/模板/02-复盘模版.md",
