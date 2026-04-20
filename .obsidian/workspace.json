@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具开发需求/股票期货需求收集.md",
+                "file": "交易大师/模板/01-期货日内交易计划与复盘咪版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "股票期货需求收集"
+              "title": "01-期货日内交易计划与复盘咪版"
             }
           }
         ]
@@ -186,8 +186,11 @@
   },
   "active": "4e2f025767821f5c",
   "lastOpenFiles": [
-    "工具开发需求/APP运营.md",
+    "交易大师/交易系统/期货交易系统框架.md",
+    "交易大师/交易系统/交易日志模板.md",
+    "交易大师/风险管理/期货交易风险管理体系.md",
     "工具开发需求/股票期货需求收集.md",
+    "工具开发需求/APP运营.md",
     "Pasted image 20260414153008.png",
     "工具开发需求",
     "心得.md",
@@ -221,9 +224,6 @@
     "交易大师/知识/震荡.md",
     "交易大师/知识/上涨.md",
     "交易大师/知识/2026-04-13讨论-趋势中走势讨论.md",
-    "交易大师/知识/理解心的.md",
-    "交易大师/知识/2026-04-13-战术-急跌与反抽的量化判定.md",
-    "交易大师/知识/2026-04-13-待定-暴跌行情辅助识别探索.md",
     "watch.sh",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py",
     "trading-master/release/strategies/_template/params.json",
