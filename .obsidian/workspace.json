@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "交易大师/每日复盘/股票/2026-04-22 计划&复盘.md",
+                "file": "交易大师/每日复盘/股票/2026-04-23 计划&复盘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-22 计划&复盘"
+              "title": "2026-04-23 计划&复盘"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "4e2f025767821f5c",
   "lastOpenFiles": [
-    "交易大师/每日复盘/股票/2026-04-21 计划&复盘.md",
     "交易大师/每日复盘/股票/2026-04-22 计划&复盘.md",
+    "交易大师/每日复盘/股票/2026-04-23 计划&复盘.md",
+    "交易大师/每日复盘/股票/2026-04-21 计划&复盘.md",
     "交易大师/每日复盘/股票/2026-04-20 计划&复盘.md",
     "Pasted image 20260421145943.png",
     "Pasted image 20260421145439.png",
@@ -226,7 +227,6 @@
     "交易大师/每日复盘/期货",
     "交易大师/每日复盘/股票",
     "交易大师/每日复盘",
-    "交易大师/知识/震荡.md",
     "watch.sh",
     "trading-master/agents/trading-master/01_system_backtest_evaluator/tools/ruin_risk_calculator.py",
     "trading-master/release/strategies/_template/params.json",
